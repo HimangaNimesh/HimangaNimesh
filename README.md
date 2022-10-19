@@ -1,7 +1,6 @@
 ### Hi there, I'm Himanga 👋👨‍💻
 
-I'm a student who passionate about Fullstack Development and Apps. 
-- 🌱 I’m currently learning in Institute of Technology University of Moratuwa
+I'm a student who passionate about Fullstack Development and Apps. I really enjoy learning new languages and frameworks like Java, React as well as flutter. I also enjoy UI designing in general. I’m currently learning in Institute of Technology University of Moratuwa.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimangaNimesh)](https://github.com/anuraghazra/github-readme-stats)
 

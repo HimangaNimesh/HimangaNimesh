@@ -11,8 +11,8 @@ I'm a self-driven full-stack JavaScript developer with a solid foundation from t
 - Databases: MongoDB, Firebase
 - Languages: JavaScript (ES6+), HTML, CSS
 
-- 🔭 I’m currently working as a Intern Software Engineer at Telzee Software International (Pvt) Ltd. 
-- 🌱 I'm also a perpetual learner, always looking to explore emerging technologies and industry best practices.
+🔭 I’m currently working as a Intern Software Engineer at Telzee Software International (Pvt) Ltd. 
+🌱 I'm also a perpetual learner, always looking to explore emerging technologies and industry best practices.
 
   
 

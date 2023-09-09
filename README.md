@@ -6,10 +6,10 @@ I'm a self-driven full-stack JavaScript developer with a solid foundation from t
 
 🚀 Here are some of the key skills I've honed along the way:
 
-Frontend Technologies: React, Next.js, Flutter, React Native
-Backend Technologies: Node.js, Nest.js
-Databases: MongoDB, Firebase
-Languages: JavaScript (ES6+), HTML, CSS
+- Frontend Technologies: React, Next.js, Flutter, React Native
+- Backend Technologies: Node.js, Nest.js
+- Databases: MongoDB, Firebase
+- Languages: JavaScript (ES6+), HTML, CSS
 
 - 🔭 I’m currently working as a Intern Software Engineer at Telzee Software International (Pvt) Ltd. 
 - 🌱 I'm also a perpetual learner, always looking to explore emerging technologies and industry best practices.
